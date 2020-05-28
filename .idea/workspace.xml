@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e798874-d703-47d2-9847-0e409318b171" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StableMarriageAlgorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/StableMarriageAlgorithm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,35 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="StableMarriageAlgorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="StableMatchingAndRoomateMatching" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StableMarriageAlgorithm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.StableMarriageAlgorithm" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -70,5 +100,61 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2539" height="424" key="GridCell.Tab.0.bottom" timestamp="1590646299193">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="424" key="GridCell.Tab.0.bottom/-1680.0.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590632376690" />
+    <state width="2539" height="424" key="GridCell.Tab.0.bottom/-1680.168.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590646299193" />
+    <state width="2539" height="424" key="GridCell.Tab.0.bottom/-1680.23.1680.1027/0.0.2560.1440@0.0.2560.1440" timestamp="1590632649671" />
+    <state width="2539" height="424" key="GridCell.Tab.0.center" timestamp="1590646299192">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="424" key="GridCell.Tab.0.center/-1680.0.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590632376689" />
+    <state width="2539" height="424" key="GridCell.Tab.0.center/-1680.168.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590646299192" />
+    <state width="2539" height="424" key="GridCell.Tab.0.center/-1680.23.1680.1027/0.0.2560.1440@0.0.2560.1440" timestamp="1590632649669" />
+    <state width="2539" height="424" key="GridCell.Tab.0.left" timestamp="1590646299191">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="424" key="GridCell.Tab.0.left/-1680.0.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590632376688" />
+    <state width="2539" height="424" key="GridCell.Tab.0.left/-1680.168.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590646299191" />
+    <state width="2539" height="424" key="GridCell.Tab.0.left/-1680.23.1680.1027/0.0.2560.1440@0.0.2560.1440" timestamp="1590632649669" />
+    <state width="2539" height="424" key="GridCell.Tab.0.right" timestamp="1590646299193">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="424" key="GridCell.Tab.0.right/-1680.0.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590632376689" />
+    <state width="2539" height="424" key="GridCell.Tab.0.right/-1680.168.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590646299193" />
+    <state width="2539" height="424" key="GridCell.Tab.0.right/-1680.23.1680.1027/0.0.2560.1440@0.0.2560.1440" timestamp="1590632649670" />
+    <state width="2539" height="520" key="GridCell.Tab.1.bottom" timestamp="1590645737727">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="520" key="GridCell.Tab.1.bottom/-1680.168.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590645737727" />
+    <state width="2539" height="520" key="GridCell.Tab.1.center" timestamp="1590645737726">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="520" key="GridCell.Tab.1.center/-1680.168.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590645737726" />
+    <state width="2539" height="520" key="GridCell.Tab.1.left" timestamp="1590645737725">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="520" key="GridCell.Tab.1.left/-1680.168.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590645737725" />
+    <state width="2539" height="520" key="GridCell.Tab.1.right" timestamp="1590645737726">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="520" key="GridCell.Tab.1.right/-1680.168.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590645737726" />
+    <state x="789" y="359" key="SettingsEditor" timestamp="1590644801233">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="789" y="359" key="SettingsEditor/-1680.168.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590644801233" />
+    <state x="100" y="100" width="2360" height="1240" key="dock-window-1" timestamp="1590645936506">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="100" y="100" width="2360" height="1240" key="dock-window-1/-1680.168.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590645936506" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1590645934380">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/-1680.0.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590630277645" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/-1680.168.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590645934380" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/-1680.23.1680.1027/0.0.2560.1440@0.0.2560.1440" timestamp="1590632642166" />
   </component>
 </project>
