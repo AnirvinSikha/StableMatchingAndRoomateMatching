@@ -28,13 +28,13 @@ Algorithm ends when there are no single women left or when there is no change af
 """
 
 def SMA(men, women, preferences, optimal):
-    #if optimal is 0, it is male optimal, meaning that the single set is the women
-    #if optimal is 1, it si female optimal, meaning that the single set is the men
+    #if optimal is 0, it is female optimal, meaning that the single set is the women
+    #if optimal is 1, it is male optimal, meaning that the single set is the men
 
     if optimal is 0:
-        singles = women.copy()
-    else:
         singles = men.copy()
+    else:
+        singles = women.copy()
     change = 1
     day = 0
     pairings = {}
@@ -69,8 +69,8 @@ def SMA(men, women, preferences, optimal):
 
 
 
-print()
-print(SMA(men, women, preferences, 0))
+# print()
+# print(SMA(men, women, preferences, 0))
 
 
 
