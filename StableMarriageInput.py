@@ -23,21 +23,41 @@ while(woman != "end"):
 #is this male optimal or female optimal
 optimal = -1
 while optimal < 0:
-    inp = input("Is this male-optimal or female optimal? Typle \'male\' or \'female\'")
+    inp = input("Is this male-optimal or female optimal? Typle \'male\' or \'female\': ")
     if(inp == 'male'):
         optimal = 0
     elif(inp == 'female'):
         optimal = 1
 
+preferences = {}
 #find the men's preferences
 for man in men:
     prefs = []
     count = 0
+    options = women.copy()
     while len(prefs) != female_count:
-        pref = input("Who is " + man + "'s preference number " + (count + 1))
+        pref = input("Who is " + man + "'s preference number " + str(count + 1) + "\n Options include: " + str(options) + "\n")
         if pref in women:
             count += 1
             prefs += [pref]
+            options.remove(pref)
+    preferences[man] = prefs
+
+#find the women's preferences
+for woman in women:
+    prefs = []
+    count = 0
+    options = men.copy()
+    while len(prefs) != male_count:
+        pref = input("Who is " + woman + "'s preference number " + str(count + 1) + "\n Options include: " + str(options) + "\n")
+        if pref in men:
+            count += 1
+            prefs += [pref]
+            options.remove(pref)
+    preferences[woman] = prefs
+
+SM.SMA(men, women, preferences, optimal)
+
 
 
 
