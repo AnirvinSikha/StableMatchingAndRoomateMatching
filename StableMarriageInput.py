@@ -1,6 +1,7 @@
 import sys
 import os
 import StableMarriageAlgorithm as SM
+from PyQt5 import QtCore, QtGui, QtWidgets
 
 #get the men's names
 male_count = 0
